@@ -15,3 +15,7 @@ This is a repository to solve both problems.
 ## Kaggle Competition
 
 I did a first submission to the Kaggle Competition using this code, it got 0.9452 [here](https://www.kaggle.com/code/dewstend/mnist-digit-recognizer/notebook).
+
+## Blog
+
+I also tried to comment a bit on my experience in my [blog post](https://dewstend.github.io/blog/fastbook-mnist/).
